@@ -39,6 +39,14 @@ git stash
 git diff 
 ```
 
+## ssh key 생성
+```
+ssh-keygen
+cat .ssh/id_rsa.pub
+```
+public key 를 github 나 배포서버에 복사 붙여넣기 한다. 
+
+
 ## intellij (혹은 다른 툴) 를 적극 활용하자 
 
 
