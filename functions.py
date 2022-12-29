@@ -2,6 +2,5 @@
 # 14:51 수정 
 def add(a, b):
     return a + b # 수정
-
 def sub(a, b):
     return a - b
