@@ -4,3 +4,6 @@ def add(a, b):
     return a + b # 수정
 def sub(a, b):
     return a - b
+
+def mul(a, b):
+    return a * b
